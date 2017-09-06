@@ -1,7 +1,7 @@
 {
   "name": "score",
   "version": "1.0.0",
-  "description": "Check score without openign browser",
+  "description": "Check score without opening the web browser",
   "main": "score.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
